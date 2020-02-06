@@ -3,10 +3,6 @@ Educational tool for the transition of concepts Sql to NoSql. AlfaConverter load
 _______________
 **Install AlfaConverter**
 
-The fastest and most recommended way to use the SmaC tool is to use the INNoVaSerV IDE which already incorporates the SmaC plugins to implement smart contracts in Solidity.
-
-You just need to download the tool, unzip the file and click on the executable. The tool already incorporates 3 contracts obtained from the official Solidity documentation
-
 Download AlfaConverter: [Link download](http://www.kybele.es/innovaserv/downloads/INNoVaServSmaCToolkit.rar)
 _______________
 
@@ -26,4 +22,14 @@ Download a AlfaConverter Guide PDF: [Link download](https://github.com/KybeleGro
 
 There are several video guides that show the use of AlfaConverter tool:
 
-  1. Conversion one table: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/1-una-tabla.gif)
+  1. Import a SQL Script: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/3-importar.gif)
+
+  2. Conversion one table: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/1-una-tabla.gif)
+  
+  3. Conversion of several tables: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/2-multiples-tablas.gif)
+  
+  4. Conversion of a many-to-one relationship: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/4-muchos-a-uno.gif)
+   
+  5. Conversion of two tables with many to one relationship: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/5-muchos-a-uno.gif)
+
+   
