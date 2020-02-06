@@ -6,7 +6,7 @@ Download AlfaConverter: [Link download](https://github.com/KybeleGroup/AlfaConve
 
 *To use it, it is necessary that you have an SQL Server distribution*
 _______________
-
+ 
 **AlfaConverter Guide**
   
 Download a AlfaConverter Guide PDF (Spanish): [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/ManualUsuarioSpanish.pdf)
