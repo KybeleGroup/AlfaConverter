@@ -2,7 +2,7 @@
 Educational tool for the transition of concepts Sql to NoSql. AlfaConverter loads a schema from a relational database to get its equivalent in JSON.
 _______________
 **Install AlfaConverter**
-Download AlfaConverter: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/AlfaConverter.zip)
+Download AlfaConverter: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/AlfaConverter-v1.1.0.0.zip)
 
 *To use it, it is necessary that you have an SQL Server distribution*
 _______________
