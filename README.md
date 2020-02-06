@@ -7,18 +7,10 @@ Download AlfaConverter: [Link download](http://www.kybele.es/innovaserv/download
 _______________
 
 **AlfaConverter Guide**
-
-* If you have an Eclipse running:
-
-  1.Choose New -> Project -> Choose a name for your project -> Click Finish
-
-  2.Choose New -> Other -> Search by: "SmaC Model" in the search box -> Choose option "SmaC model"
-
-  3.Choose Smac Model's name -> Choose "File" element as the root of the model -> Ok
-
-  4.Write a Solidity Smart contract.
   
-Download a AlfaConverter Guide PDF: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/GuideSmaC.pdf)
+Download a AlfaConverter Guide PDF (Spanish): [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/ManualUsuarioSpanish.pdf)
+
+Download a AlfaConverter Guide PDF (English): [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/ManualUsuarioEnglish.pdf)
 
 There are several video guides that show the use of AlfaConverter tool:
 
