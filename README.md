@@ -24,5 +24,6 @@ _______________
   
 Download a AlfaConverter Guide PDF: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/GuideSmaC.pdf)
 
-There are several video guides that show the use of AlfaConverter tool 
-[Link download](https://github.com/KybeleGroup/SmaC/blob/master/GenerateEMFModels.mp4)
+There are several video guides that show the use of AlfaConverter tool:
+
+  1. Conversion one table: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/1-una-tabla.gif)
