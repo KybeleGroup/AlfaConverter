@@ -14,14 +14,14 @@ Download a AlfaConverter Guide PDF (English): [Link download](https://github.com
 
 There are several video guides that show the use of AlfaConverter tool:
 
-  1. Import a SQL Script: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/3-importar.gif)
+  1. Import a SQL Script: [Watch video](https://github.com/KybeleGroup/AlfaConverter/blob/master/3-importar.gif)
 
-  2. Conversion one table: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/1-una-tabla.gif)
+  2. Conversion one table: [Watch video](https://github.com/KybeleGroup/AlfaConverter/blob/master/1-una-tabla.gif)
   
-  3. Conversion of several tables: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/2-multiples-tablas.gif)
+  3. Conversion of several tables: [Watch video](https://github.com/KybeleGroup/AlfaConverter/blob/master/2-multiples-tablas.gif)
   
-  4. Conversion of a many-to-one relationship: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/4-muchos-a-uno.gif)
+  4. Conversion of a many-to-one relationship: [Watch video](https://github.com/KybeleGroup/AlfaConverter/blob/master/4-muchos-a-uno.gif)
    
-  5. Conversion of two tables with many to one relationship: [Link download](https://github.com/KybeleGroup/AlfaConverter/blob/master/5-muchos-a-uno.gif)
+  5. Conversion of two tables with many to one relationship: [Watch video](https://github.com/KybeleGroup/AlfaConverter/blob/master/5-muchos-a-uno.gif)
 
    
