@@ -1,5 +1,4 @@
 # AlfaConverter
-================
 Educational tool for the transition of concepts Sql to NoSql. AlfaConverter loads a schema from a relational database to get its equivalent in JSON.
 _______________
 **Install AlfaConverter**
